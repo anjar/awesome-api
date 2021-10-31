@@ -16,7 +16,7 @@
 
 ## Table of Contents
 ---
- * [Cryptocurrency](#cryptocurrency)
+ * [Cryptocurrencies](#cryptocurrencies)
  * [Food](#food)
  * [Games](#game)
  * [Git Provider](#git-provider)
@@ -24,7 +24,7 @@
 
 
 
-#### Cryptocurrency
+#### Cryptocurrencies
   * [Binance](https://binance-docs.github.io/apidocs/spot/en/) <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/master/assets/rest.svg"> <img width="18px" title="Python SDK Available" src="https://raw.githubusercontent.com/anjar/awesome-api/master/assets/python.svg"> <img width="18px" title="NodeJS SDK Available" src="https://raw.githubusercontent.com/anjar/awesome-api/master/assets/node.svg"> - Official Binance API.
   * [Bitcoincharts](https://bitcoincharts.com/about/exchanges/) <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/master/assets/rest.svg"> - Bitcoincharts provides financial and technical data related to the Bitcoin network.
   * [BitFinex](https://docs.bitfinex.com/docs/introduction/) <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/master/assets/rest.svg">  <img width="18px" title="Websocket API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/master/assets/websocket.svg"> - The Bitfinex API is designed to allow access to all the features of the Bitfinex platform on the condition that it is used in compliance with Bitfinex API Terms of Service.
