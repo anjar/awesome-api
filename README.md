@@ -27,6 +27,7 @@
   * [Blockchain](https://www.blockchain.com/api) <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/main/assets/rest.svg"> <img width="18px" title="Websocket API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/main/assets/websocket.svg"> - Build bitcoin apps on top of Blockchain.com Exchange API.
   * [Crypto Saving](https://api.crypto-savings.com/v1/)  <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/main/assets/rest.svg"> - Monitor crypto address(bitcoin and ethereum are supported) and send notification once somebody sends payment to that addresses.
   * [Coin API](https://docs.coinapi.io/)  <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/main/assets/rest.svg"> <img width="18px" title="Websocket API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/main/assets/websocket.svg"> - CoinAPI is a platform which provides fast, reliable and unified data APIs to cryptocurrency markets.
+  * [Sharpe](https://www.sharpe.ai/docs/free-api) <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/main/assets/rest.svg"> - Crypto market intelligence API for funding rates, derivatives, arbitrage, narratives, exchange listings, and news.
   * [World Coin Index API](https://www.worldcoinindex.com/apiservice/)  <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/main/assets/rest.svg"> - WorldCoinIndex is cryptocurrency source with price information and news. Over 1500 cryptocurrencies listed with 13 fiat currencies USD, EUR, CNY, GBP, RUB, CAD, JPY, HKD, BRL, IDR, AUD, KRW, INR, TRY and ZAR
 #### Food
   * [Spoonacular API](https://spoonacular.com/food-api) <img width="18px" title="Rest API Available" src="https://raw.githubusercontent.com/anjar/awesome-api/main/assets/rest.svg"> - Let’s you access over 2,000 Ingredients,5,000 recipes and 90,000 food products.
@@ -52,6 +53,6 @@
 
 
 ##### Footnotes
-[^bignote]: 
- - RestAPI icon from [IconPacks](https://www.iconpacks.net/free-icon/rest-api-blue-logo-22098.html) 
- - GraphQL icon from [graphql.org](https://graphql.org/brand/) 
+[^bignote]:
+ - RestAPI icon from [IconPacks](https://www.iconpacks.net/free-icon/rest-api-blue-logo-22098.html)
+ - GraphQL icon from [graphql.org](https://graphql.org/brand/)
